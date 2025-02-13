@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Jacob Johnstone</h1>
 
-<!--
-**JacobJohnstone/JacobJohnstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 About Me
+I am a software engineering graduate from The University of Western Ontario. Passionate about exploring new opportunities and creating impactful software solutions to complex problems.
 
-Here are some ideas to get you started:
+## 🔭 I’m Currently Working On
+- 💻 Building fullstack applications with ReactJS and Node/ExpressJS
+- 🎮 Participating in game jams with a focus on best practices and common design-patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with ReactJS!
+
+## 🌱 I’m Currently Learning
+- 🧮 Strengthening my data structures and algorithms fundamentals
+- 💡 Enhancing my skills of best coding practices in multiple domains
+
+## 👯 I’m Looking to Collaborate On
+Any and all programming projects! I am eager to connect with people and use my skillset to help others.
+
+## 🌐 Connect with me:
+- 📧 jjohnstone681@gmail.com
+- ⚡ [LinkedIn](https://www.linkedin.com/in/jacobjohnstone/)
