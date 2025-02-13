@@ -16,6 +16,6 @@ Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with
 ## 👯 I’m Looking to Collaborate On
 Any and all programming projects! I am eager to connect with people and use my skillset to help others.
 
-## 🌐 Connect with me:
+## 🌐 Connect With Me:
 - 📧 jjohnstone681@gmail.com
 - ⚡ [LinkedIn](https://www.linkedin.com/in/jacobjohnstone/)
