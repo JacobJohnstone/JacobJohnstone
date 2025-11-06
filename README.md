@@ -8,7 +8,14 @@ I am a graduate of Western University's Software Engineering program. Continuing
 - 💻 Deep diving on Arch Linux ready to make the jump soon 👀!
 - 🎮 Joining the [20 Second game jam](https://itch.io/jam/20-second-game-jam-2025)!
 
+
+<div align="center">
+
 Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with React!
+
+</div>
+
+
 
 ## 🌱 I’m Currently Learning
 - 🤖 How to create reliable native widgets, taking advantage of custom modules and the react-native bridge!
