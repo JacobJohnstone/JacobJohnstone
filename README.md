@@ -12,9 +12,9 @@ Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with
 
 ## 🌱 I’m Currently Learning
 - 🤖 How to create reliable native widgets, taking advantage of custom modules and the react-native bridge!
-- 💡 C++ -> building with Godot and practicing on LeetCode!
+- C++ ➡️ building with Godot and practicing on LeetCode!
 
-## 👯 I’m Looking to Collaborate
+## 🤝 I’m Looking to Collaborate
 Any new or on-going software projects of all kinds! I am eager to connect with people and use my skillset to help others, especially if I can learn something new along the way!
 
 ## 🌐 Connect With Me:
