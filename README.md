@@ -4,8 +4,8 @@
 I am a graduate of Western University's Software Engineering program. Continuing to build my skills and looking to connect with anyone and everyone!
 
 ## 🔭 I’m Currently Working On
-- 📱 Using React-Native to create Amorie 💌 and building a Next.js full stack application in the background!
-- 💻 Deep diving on Arch Linux ready to make the jump and rice soon 👀!
+- 📱 Using React-Native to create [Amorie](https://www.getamorie.app/) 💌 and building a Next.js full stack application in the background!
+- 💻 Deep diving on Arch Linux ready to make the jump soon 👀!
 - 🎮 Joining the [20 Second game jam](https://itch.io/jam/20-second-game-jam-2025)!
 
 Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with React!
