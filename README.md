@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jacob Johnstone</h1>
 
 # 🎓 About Me
-I am a graduate of Western University's Software Engineering program. Continuing to build my skills and looking to connect with everyone!
+I am a graduate of Western University's Software Engineering program. Continuing to build my skills and looking to connect with anyone and everyone!
 
 ## 🔭 I’m Currently Working On
 - 📱 Using React-Native to create Amorie 💌 and building a Next.js full stack application in the background!
