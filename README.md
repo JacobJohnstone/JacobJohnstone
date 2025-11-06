@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋 I'm Jacob Johnstone</h1>
 
 # 🎓 About Me
-I am a software engineering graduate from The University of Western Ontario. Currently building a new app, Amorie!
+I am a graduate of Western University's Software Engineering program. Continuing to build my skills and looking to connect with everyone!
 
 ## 🔭 I’m Currently Working On
-- 📱 Using React-Native with Firebase to create Amorie 💌!
-- 💻 Building fullstack applications with ReactJS and Node/ExpressJS
-- 🎮 Participating in game jams with a focus on best practices and common design-patterns
+- 📱 Using React-Native to create Amorie 💌 and building a Next.js full stack application in the background!
+- 💻 Deep diving on Arch Linux ready to make the jump and rice soon 👀!
+- 🎮 Joining the [20 Second game jam](https://itch.io/jam/20-second-game-jam-2025)!
 
-Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with ReactJS!
+Check out my [coding portfolio](https://jacobj-portfolio.vercel.app/) built with React!
 
 ## 🌱 I’m Currently Learning
-- 🤖 How to deploy and market an App on the App Store
-- 💡 Enhancing my knowledge of best coding practices in multiple domains
+- 🤖 How to create reliable native widgets, taking advantage of custom modules and the react-native bridge!
+- 💡 C++ -> building with Godot and practicing on LeetCode!
 
 ## 👯 I’m Looking to Collaborate
-Any and all programming projects! I am eager to connect with people and use my skillset to help others.
+Any new or on-going software projects of all kinds! I am eager to connect with people and use my skillset to help others, especially if I can learn something new along the way!
 
 ## 🌐 Connect With Me:
 - 📧 jjohnstone681@gmail.com
